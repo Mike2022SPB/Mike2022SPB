@@ -1,4 +1,5 @@
-### Hey there 👋. It's me [Mike](https://github.com/Mike2022SPB).
+### Hey there 👋. It's [me](https://github.com/Mike2022SPB).
 * * *
-#### My name is Mike. I'm Ruby on Rails Developer.
-####
+#### My name is Mike. 
+#### I'm Ruby on Rails Developer.
+<code> Some code </code>
