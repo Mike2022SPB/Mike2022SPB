@@ -1,6 +1,6 @@
 ### Hey there 👋. It's [me](https://github.com/Mike2022SPB).
 * * *
-#### I'm Ruby on Rails Developer.
+#### I'm :diamonds: :gem: Ruby on Rails Developer :diamonds: :gem: .
 ```
   "Mike Godunov" = {  
     "stack": ["Ruby", 
