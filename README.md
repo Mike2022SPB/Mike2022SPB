@@ -2,7 +2,7 @@
  
  ### Hey there 👋. It's [me](https://github.com/Mike2022SPB).
 * * *
-#### :gem: :diamonds: I'm Ruby on Rails Developer :diamonds: :gem: .
+#### :gem: :diamonds: I'm Ruby on Rails Developer :diamonds: :gem: 
 
 </div>
 
