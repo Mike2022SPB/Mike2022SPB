@@ -4,7 +4,6 @@
  ### My [CV here](https://mike2022spb.github.io/curriculum_vitae/).
 * * *
 #### :gem: :diamonds: I'm Ruby on Rails Developer :diamonds: :gem: 
- My [CV here(Curriculum Vitae)](https://mike2022spb.github.io/curriculum_vitae/).
 </div>
 
 ```ruby
