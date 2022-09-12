@@ -21,8 +21,7 @@ Mike_Godunov = {
     "SQL"],
   "main_personal_projects_based_on_the_stack": [
      "rendezvous",
-     "askme"
-     ],
+     "askme"],
   "hobbies": ["economic",
     "international_bussines_law",
     "history",
