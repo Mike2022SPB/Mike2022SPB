@@ -20,11 +20,9 @@ Mike_Godunov = {
     "Git",
     "SQL"],
   "main_personal_projects_based_on_the_stack": [
-     "personal_blog",
-     "enterpise_managment",
-     "investment_game",
-     "askme",
-     "meetings_app"],
+     "rendezvous",
+     "askme"
+     ],
   "hobbies": ["economic",
     "international_bussines_law",
     "history",
