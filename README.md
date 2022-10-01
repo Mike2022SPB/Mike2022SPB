@@ -18,7 +18,8 @@ Mike_Godunov = {
     "minitest",
     "Linux",
     "Git",
-    "SQL"],
+    "SQL",
+    "MVC pattern development"],
   "main_personal_projects_based_on_the_stack": [
      "rendezvous",
      "askme"],
