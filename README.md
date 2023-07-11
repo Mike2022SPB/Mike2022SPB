@@ -17,7 +17,7 @@ Mike_Godunov = {
   "stack": 
     {
       "Ruby",
-      "Ruby_on_rails",
+      "Ruby_on_Rails",
       "MVC and MVP pattern development",
       "hasura graphQL Engine",
       "Sidekiq+Redis",
