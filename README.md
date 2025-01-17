@@ -1,7 +1,6 @@
 <div align="center">
  
  ### Hey there 👋. It's [me](https://github.com/Mike2022SPB).
- ### My [CV here](https://mike2022spb.github.io/resume/index.html).
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mike_godunoff)
 [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mike.godunoff2020@gmail.com
 )
